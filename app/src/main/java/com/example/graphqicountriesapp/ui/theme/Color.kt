@@ -1,4 +1,4 @@
-package com.example.graphqicontriesapp.ui.theme
+package com.example.graphqicountriesapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

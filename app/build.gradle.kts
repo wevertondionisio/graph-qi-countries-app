@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.graphqicontriesapp"
+    namespace = "com.example.graphqicountriesapp"
     compileSdk = 36
 
     defaultConfig {

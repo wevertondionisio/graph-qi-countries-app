@@ -1,4 +1,4 @@
-package com.example.graphqicontriesapp
+package com.example.graphqicountriesapp
 
 import org.junit.Test
 
